@@ -9,3 +9,4 @@ code .)
 [Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.]
 # License
 [https://choosealicense.com/licenses/mit/]
+www.patika.dev
